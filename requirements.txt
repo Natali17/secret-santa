@@ -1,5 +1,4 @@
-pip install vk_api
-pip install vk_api.longpoll
-pip install requests
-pip install pandas
-pip install openpyxl
+vk_api
+requests
+pandas
+openpyxl

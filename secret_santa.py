@@ -18,8 +18,8 @@ import asyncio
 import time
 import csv
 
-token = "820e3b7d8e51600bf471c1abbbf76e625ca8356bf048bb16d968f002fd7ec251b183b5afd3487c7d81ef1"
-user_token = 'ea8d293a01cefdbeec92dd1544836e80604ba645a525559706b48016fed2a41e490f4dcb3b05c4434c4bb'
+token = "xxx"
+user_token = 'xxx'
 
 users = [343115381, 235876424]
 
